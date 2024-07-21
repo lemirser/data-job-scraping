@@ -215,4 +215,7 @@ pip-selfcheck.json
 .history
 .ionide
 
+#Chrome driver
+chromedriver_mac64
+
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks,virtualenv,visualstudiocode
