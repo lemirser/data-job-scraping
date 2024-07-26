@@ -22,6 +22,7 @@ ipython==8.26.0
 itsdangerous==2.2.0
 jedi==0.19.1
 Jinja2==3.1.4
+joblib==1.4.2
 jupyter_client==8.6.2
 jupyter_core==5.7.2
 MarkupSafe==2.1.5
@@ -49,12 +50,15 @@ python-dateutil==2.9.0.post0
 pytz==2024.1
 pyzmq==26.0.3
 requests==2.32.3
+scikit-learn==1.5.1
+scipy==1.14.0
 selenium==4.23.0
 six==1.16.0
 sniffio==1.3.1
 sortedcontainers==2.4.0
 soupsieve==2.5
 stack-data==0.6.3
+threadpoolctl==3.5.0
 tornado==6.4.1
 traitlets==5.14.3
 trio==0.26.0
